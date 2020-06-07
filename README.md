@@ -7,3 +7,4 @@ Esta repositorio, muestra los graficos diarios de evolucion del Covid en Chile, 
 El interes es solo, mostrar de manera grafica las cifras.
 
 source: https://github.com/MinCiencia/Datos-COVID19
+        https://chilecracia.org
